@@ -1,3 +1,1 @@
-Hello this is a text file
-this is the first line
-this is the third line
+This is my first line
