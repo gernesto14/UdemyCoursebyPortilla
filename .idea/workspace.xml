@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176f7f19-e54b-458a-99dc-ae2e1b5bf59b" name="Changes" comment="this is a HellowWorld py program uploading from IntellyJ to Github" />
+    <list default="true" id="176f7f19-e54b-458a-99dc-ae2e1b5bf59b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +99,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.IO Basic Files">
+  <component name="RunManager" selected="Python.HelloWorld">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Udemy Course by Portilla" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.IO Basic Files" />
         <item itemvalue="Python.HelloWorld" />
+        <item itemvalue="Python.IO Basic Files" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +312,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659750213660</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="this is a HellowWorld py program uploading from IntellyJ to Github">
+      <created>1659750378476</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1659750378476</updated>
+    </task>
+    <task id="LOCAL-00024" summary="this is a HellowWorld py program uploading from IntellyJ to Github">
+      <created>1659750458779</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1659750458779</updated>
+    </task>
+    <task id="LOCAL-00025" summary="this is a HellowWorld py program uploading from IntellyJ to Github">
+      <created>1659750565728</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1659750565728</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,5 +350,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is a HellowWorld py program uploading from IntellyJ to Github" />
     <option name="LAST_COMMIT_MESSAGE" value="this is a HellowWorld py program uploading from IntellyJ to Github" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

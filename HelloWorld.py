@@ -1,9 +1,10 @@
-#Hello World
+# Hello World
 
-print('Hello World') #IntellyJ
+print('Hello World')  # IntellyJ
 
-#1
-#2
-#3
-#4
-#5
+mystring = 'hello'
+mylist = []
+
+for i in mystring:
+    mylist.append(i)
+print(mylist)
