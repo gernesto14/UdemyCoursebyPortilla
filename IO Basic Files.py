@@ -11,7 +11,7 @@ while userinput is not False:
     userinput = str(input("\nEnter operation:\n "
                           "\t'0' ends "
                           "\t'1' continue "
-                          "\t'W' write new line" + str(count) + \
+                          "\t'W' write new line"
                           "\t'R' read\t"
                           "\t'A' append"))
 
