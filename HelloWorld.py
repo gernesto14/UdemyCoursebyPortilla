@@ -1,9 +1,4 @@
-#Hello World
+# Hello World
 
-print('Hello World') #IntellyJ
+print('Hello World')  # IntellyJ
 
-#1
-#2
-#3
-#4
-#5
